@@ -1,5 +1,8 @@
 # pytorch-AdaIN
 
+orgin copy form [naoto0804/pytorch-AdaIN](https://github.com/naoto0804/pytorch-AdaIN)
+change to calculate mean and variance by sliding window with kernel size [5,5] 
+
 This is an unofficial pytorch implementation of a paper, Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [Huang+, ICCV2017].
 I'm really grateful to the [original implementation](https://github.com/xunhuang1995/AdaIN-style) in Torch by the authors, which is very useful.
 
